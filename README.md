@@ -36,8 +36,8 @@ Frontend dasturchi!
 </p>
 
 ## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontendtester&show_icons=true&locale=en&layout=compact" alt="frontendtester" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvar-Dev&show_icons=true&locale=en&layout=compact" alt="Sarvar-Dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendtester&show_icons=true&locale=en" alt="frontendtester" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sarvar-Dev&show_icons=true&locale=en" alt="Sarvar-Dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendtester&" alt="frontendtester" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvar-Dev&" alt="Sarvar-Dev" /></p>
