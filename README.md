@@ -2,7 +2,7 @@
 
 Frontend dasturchi!
 
-[💼 Portfolio](https://rsportfolio.uz) | [💬 Telegram](https://t.me/Sarvarbek9911) | 📧 rsarvarbek1203@gmail.com
+[💼 Portfolio](https://rsportfolio.uz) | [💬 Telegram](https://t.me/Sarvarbek9911) | 📧 sarvarbekr1203@gmail.com
 
 
 ## Texnologiyalar
